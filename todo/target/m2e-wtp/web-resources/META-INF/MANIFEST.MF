@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TERASOLUNA Server Framework for Java (5.x) Web B
+ lank Project (MyBatis3)
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Kansuke
+Implementation-Vendor-Id: todo
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: TERASOLUNA Framework Team
+
